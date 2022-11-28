@@ -11,8 +11,8 @@ please install sequelize-cli and other requered packages to run migration - igno
 sequelize db:migrate
 sequelize db:seed:all
 
-npm run dev
+you can use npm run dev or node server.js to start server
 
 running on port 7000
 
-# Author - Nohsin Sunasara
+# Author - Mohsin Sunasara
